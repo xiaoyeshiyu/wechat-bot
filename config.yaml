@@ -1,0 +1,9 @@
+api_key: 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,
+auto_pass: true,
+chat_url: https://api.openai.com/,
+log:
+  file: ./wechat_bot.log
+  level: debug
+  maxSize: 100
+  backups: 3
+  maxAge: 30

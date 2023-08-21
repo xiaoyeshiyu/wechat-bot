@@ -1,0 +1,9 @@
+api_key:
+auto_pass: true,
+chat_url:
+log:
+  file: ./wechat_bot.log
+  level: debug
+  maxSize: 100
+  backups: 3
+  maxAge: 30
